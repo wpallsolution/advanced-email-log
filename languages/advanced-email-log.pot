@@ -1,0 +1,114 @@
+# Copyright (C) 2026 WP All Solution
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Email Log 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wpallsolution.com/\n"
+"POT-Creation-Date: 2026-11-05 11:30:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2026-YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: WP All Solution\n"
+"Language-Team: WP All Solution\n"
+"X-Generator: WP All Solution POT Generator\n"
+
+#: advanced-email-log.php
+msgid "Advanced Email Log requires PHP 8.0 or higher. Please upgrade your PHP version."
+msgstr ""
+
+#: includes/class-mail-logger.php
+msgid "Short-circuited by a pre_wp_mail filter returning false."
+msgstr ""
+
+#: includes/class-mail-logger.php
+msgid "(Email body logging disabled in settings)"
+msgstr ""
+
+#: includes/class-mail-logger.php
+msgid "wp_mail reported an unknown error."
+msgstr ""
+
+#: includes/class-mail-logger.php
+msgid "Send process terminated without transport confirmation (e.g. fatal PHP error, process timeout, or unobservable mailer)."
+msgstr ""
+
+#: includes/class-importer.php
+msgid "Import complete! %1$d email log(s) imported successfully (%2$d duplicate(s) or invalid row(s) skipped)."
+msgstr ""
+
+#: admin/class-logs-table.php
+msgid "Sent At"
+msgstr ""
+
+#: admin/class-logs-table.php
+msgid "Status"
+msgstr ""
+
+#: admin/class-logs-table.php
+msgid "To"
+msgstr ""
+
+#: admin/class-logs-table.php
+msgid "Subject"
+msgstr ""
+
+#: admin/class-logs-table.php
+msgid "CC"
+msgstr ""
+
+#: admin/class-logs-table.php
+msgid "BCC"
+msgstr ""
+
+#: admin/class-logs-table.php
+msgid "Reply-To"
+msgstr ""
+
+#: admin/class-logs-table.php
+msgid "Attachment"
+msgstr ""
+
+#: admin/class-logs-table.php
+msgid "IP Address"
+msgstr ""
+
+#: admin/class-logs-table.php
+msgid "Actions"
+msgstr ""
+
+#: admin/class-logs-table.php
+msgid "Filter by date"
+msgstr ""
+
+#: admin/class-logs-table.php
+msgid "Move to Trash"
+msgstr ""
+
+#: admin/class-logs-table.php
+msgid "Restore"
+msgstr ""
+
+#: admin/class-logs-table.php
+msgid "Delete Permanently"
+msgstr ""
+
+#: admin/class-logs-table.php
+msgid "Empty Trash"
+msgstr ""
+
+#: admin/class-logs-table.php
+msgid "Clear All Logs"
+msgstr ""
+
+#: admin/class-logs-table.php
+msgid "Import CSV"
+msgstr ""
+
+#: admin/class-logs-table.php
+msgid "Export CSV"
+msgstr ""
+
+#: admin/class-logs-table.php
+msgid "Columns"
+msgstr ""
